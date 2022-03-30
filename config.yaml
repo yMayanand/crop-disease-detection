@@ -1,0 +1,3 @@
+arch: resnet18
+epochs: 20
+lr: 0.001

@@ -1,0 +1,1 @@
+# A project on Crop Disease Detection Using Deep Learning Computer Vision.
